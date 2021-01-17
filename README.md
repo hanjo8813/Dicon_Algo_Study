@@ -2,6 +2,8 @@
 
 ### 가늘고 길게 가는 스터디 🤯
 
+<br>
+
 ## 링크
 
 - [코드](/code)
@@ -17,7 +19,7 @@
         <td><a href='https://github.com/jeonbar2'>강전호</a></td>
         <td><a href='https://github.com/hon99oo'>강홍구</a></td>
         <td><a href='https://github.com/jeonghyun96'>권정현</a></td>
-        <td>장재훈</td>
+        <td><a href='https://github.com/jangjh'>장재훈</a></td>
         <td><a href='https://github.com/hanjo8813'>한재원</a></td>
     </tr>
 </table>
