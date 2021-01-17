@@ -8,7 +8,7 @@
 
 <table>
     <tr>
-        <th colspan=5>🚶</th>
+        <th colspan=5>💻🙎‍♂️📒</th>
     </tr>
     <tr>
         <td><a href='https://github.com/jeonbar2'>강전호</a></td>
@@ -34,7 +34,7 @@
 
 ## 진행상황
 
-|회차|카테고리|문제|링크|
-|:--:|:--:|:--:|:--:|
-|1-1|해시(1)|완주하지 못한 선수|https://programmers.co.kr/learn/courses/30/lessons/42576|
-|1-2|정렬(1)|K번째수|https://programmers.co.kr/learn/courses/30/lessons/42748|
+|회차|카테고리|문제|
+|:--:|:--:|:--:|
+|1-1|해시(1)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|
+|1-2|정렬(1)|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|
