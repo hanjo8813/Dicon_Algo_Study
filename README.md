@@ -11,11 +11,11 @@
         <th colspan=5>이름</th>
     </tr>
     <tr>
-        <td>[강전호](https://github.com/jeonbar2)</td>
-        <td>[강홍구](https://github.com/hon99oo)</td>
-        <td>[권정현](https://github.com/jeonghyun96)</td>
+        <td><a href='https://github.com/jeonbar2'>강전호</a></td>
+        <td><a href='https://github.com/hon99oo'>강홍구</a></td>
+        <td><a href='https://github.com/jeonghyun96'>권정현</a></td>
         <td>장재훈</td>
-        <td>[한재원](https://github.com/hanjo8813)</td>
+        <td><a href='https://github.com/hanjo8813'>한재원</a></td>
     </tr>
 </table>
 
