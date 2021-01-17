@@ -9,13 +9,9 @@
 - [코드폴더](/code)
 - [리뷰폴더](/review)
 
-<br>
-
-## 스터디원
-
 <table>
     <tr>
-        <th colspan=5>💻🙎‍♂️📒</th>
+        <th colspan=5>💻🙎‍♂스터디원</th>
     </tr>
     <tr>
         <td><a href='https://github.com/jeonbar2'>강전호</a></td>
