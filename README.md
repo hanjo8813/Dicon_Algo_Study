@@ -43,3 +43,6 @@
 |2-1|완전탐색(1)|모의고사|https://programmers.co.kr/learn/courses/30/lessons/42840|
 |2-2|해시(2)|전화번호 목록|https://programmers.co.kr/learn/courses/30/lessons/42577|
 |2-3|스택/큐(2)|주식가격|https://programmers.co.kr/learn/courses/30/lessons/42584|
+|3-1|스택/큐(2)|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586|
+|3-2|힙(2)|더 맵게|https://programmers.co.kr/learn/courses/30/lessons/42626|
+|3-3|정렬(2)|가장 큰 수|https://programmers.co.kr/learn/courses/30/lessons/42746|
