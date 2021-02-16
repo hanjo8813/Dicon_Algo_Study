@@ -46,3 +46,6 @@
 |3-1|스택/큐(2)|기능개발|https://programmers.co.kr/learn/courses/30/lessons/42586|
 |3-2|힙(2)|더 맵게|https://programmers.co.kr/learn/courses/30/lessons/42626|
 |3-3|정렬(2)|가장 큰 수|https://programmers.co.kr/learn/courses/30/lessons/42746|
+|4-1|정렬(2)|H-인덱스|https://programmers.co.kr/learn/courses/30/lessons/42747|
+|4-2|스택/큐(2)|다리를 지나는 트럭|https://programmers.co.kr/learn/courses/30/lessons/42583|
+|4-3|완전탐색(2)|소수 찾기|https://programmers.co.kr/learn/courses/30/lessons/42839|
